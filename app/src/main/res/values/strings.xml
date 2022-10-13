@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMail</string>
+    <string name="horaMensaje">18:30</string>
+    <string name="nombrePersona">Juan José Munera</string>
+    <string name="ultimoMensaje">Bienvenido al equipo</string>
+    <string name="nombre">From:</string>
+    <string name="mensaje">Asunto :</string>
+    <string name="correo">Correo :</string>
+    <string name="telefono">Teléfono</string>
+    <string name="DatosRe">Datos Remitente :</string>
+    <string name="numeroTelefono">+573145673421</string>
+    <string name="pais">País</string>
+    <string name="nombrePais">Inglaterra</string>
+</resources>
